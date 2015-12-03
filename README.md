@@ -1,6 +1,8 @@
 #[Font Awesome v4.5.0](http://fontawesome.io)
 ###The iconic font and CSS framework
 
+[![Join the chat at https://gitter.im/inconel/Font-Awesome](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/inconel/Font-Awesome?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Font Awesome is a full suite of 605 pictographic icons for easy scalable vector graphics on websites,
 created and maintained by [Dave Gandy](http://twitter.com/davegandy).
 Stay up to date with the latest release and announcements on Twitter:
